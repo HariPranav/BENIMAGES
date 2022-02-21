@@ -75,6 +75,11 @@ The main points of deployment and Row level security along with the development 
 ![image](https://user-images.githubusercontent.com/28874545/154725420-a654732b-d647-40dd-89bb-ccde32397b9f.png)
 
 
+Dev.to : Superset current user name
+
+![image](https://user-images.githubusercontent.com/28874545/154963389-1f48e5bf-fc45-493f-a043-a9b1cf6a44be.png)
+
+
 
 
 
